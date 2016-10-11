@@ -2,5 +2,6 @@
  * Created by Shivani on 10/12/2016.
  */
 
-Console.log("in body");
-
+console.log('in body');
+var a=6+9;
+console.log(a);
